@@ -1,4 +1,4 @@
-![logo](https://github.com/suneelshivanioffical/suneelshivanioffical/blob/main/Banners.png)
+![logo](https://github.com/suneelshivanioffical/suneelshivanioffical/blob/main/Banners_front.png)
 <h1 align="center"> Hey Greeting!👋 I'm Suneel Shivani</h1>
 <h3 align="center">A passionate Data Freelancer at LinkedIn </h3>
 
