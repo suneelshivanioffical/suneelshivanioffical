@@ -11,7 +11,7 @@
 
 # 💬 About Me:
 
-- 👩‍💻 I'm a [Freelance Data Analyst](www.linkedin.com/in/suneelshivanioffical/), hepling businesses to unlock the true power of their data, helping them make killer decisions that drive growth, cut costs, and 
+- 👩‍💻 I'm a **[Freelance Data Analyst](https://www.linkedin.com/in/suneelshivanioffical/)**, hepling businesses to unlock the true power of their data, helping them make killer decisions that drive growth, cut costs, and 
      boost efficiency.<br>
 
 - ⚜️ My Superpowers Include:
@@ -24,15 +24,15 @@
      ↳ Business Intelligence Tools—smarter tools, smarter decisions.                       
      ↳ Data-Driven Decision Making—let the numbers guide you to success. <br>
 
-- 🔭 I’m currently working as **Freelace Data Analyst at [LinkedIn](www.linkedin.com/in/suneelshivanioffical/)**
+- 🔭 I’m currently working as **Freelace Data Analyst** at **[LinkedIn](https://www.linkedin.com/in/suneelshivanioffical/)**
 
-- 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/suneelshivanioffical/) & [GitHub](https://github.com/suneelshivanioffical)
+- 👨‍💻 All of my projects are available on **[LinkedIn](https://www.linkedin.com/in/suneelshivanioffical/)** & **[GitHub](https://github.com/suneelshivanioffical)**
 
 - 💠 I post valuable data-related content on **[LinkedIn](https://www.linkedin.com/in/suneelshivanioffical/) and [Twitter](https://twitter.com/SuneelShivani)**
 
-- 📫 How to reach me **shivanisuneel82@dmail.com**
+- 📫 How to reach me **shivanisuneel82@gmail.com**
 
-- 🍭 Connect with me on [Linkedln](https://www.linkedin.com/in/suneelshivanioffical/)
+- 🍭 Connect with me on **[Linkedln](https://www.linkedin.com/in/suneelshivanioffical/)**
 
 - ⚡ Fun Fact : **I think I am Curious!**
 
